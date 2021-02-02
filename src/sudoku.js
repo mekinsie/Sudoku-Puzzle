@@ -1,5 +1,5 @@
 export default function Sudoku(row, column) {
-  this.row = [];
-  this.column = [];
+  this.row = row;
+  this.column = column;
 };
 
