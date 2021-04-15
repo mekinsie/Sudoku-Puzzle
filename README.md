@@ -13,8 +13,8 @@ Zack Rutledge, Mekinsie Callahan
 
 This application checks if a completed Sudoku puzzle is "legal". In other words, the following rules are met:
 
-Each row contains all numbers from 1 to 9 with no repeats.
-Each column contains all numbers from 1 to 9 with no repeats.
+* Each row contains all numbers from 1 to 9 with no repeats.
+* Each column contains all numbers from 1 to 9 with no repeats.
 
 ## License
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)\
